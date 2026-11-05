@@ -1,5 +1,0 @@
-Revised Linux Commands
-Linux Scripting
-ShortLink
-Hardlink
-Top 10 longest file (linux)
