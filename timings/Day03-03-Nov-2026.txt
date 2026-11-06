@@ -1,0 +1,9 @@
+What I did today :-
+    - watched video
+    - practicaed Day 03 Code
+    - Study briefly 
+          > Ansible – Configuration Management
+	  > Terraform – Infrastructure as Code (IaC)
+	  > Kubernetes - Container Orchestration
+	  > Shell Scripting – Linux Automation
+	  > Docker – Containerization
