@@ -1,0 +1,9 @@
+What I did today:
+    3 hour: watch linux command Video
+    an hour: practice linux command
+    Read about (in brief):-
+        > Linux commands and file permissions.
+        > Process management.
+        > Networking (DNS, TCP/UDP, SSH, ports).
+        > Disk, memory and service management.
+        > Shell scripting and Cron Jobs.
