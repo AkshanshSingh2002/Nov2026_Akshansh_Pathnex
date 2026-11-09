@@ -1,0 +1,11 @@
+What I did today :-
+    2 hours - watch video
+    1:30 hours - practiced code
+    read about :-
+        > EC2 Auto Scaling Groups
+        > AWS Lambda
+        > AWS WAF	
+        > Auto Scaling Policies + CloudWatch	
+	> AWS Shield
+
+
